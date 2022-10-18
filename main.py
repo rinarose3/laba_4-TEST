@@ -10,3 +10,6 @@ def ca_cows():
             return f"на поле {cow} коровы"
         else:
             return f"на поле {cow} коров"
+
+
+print("Hello")
